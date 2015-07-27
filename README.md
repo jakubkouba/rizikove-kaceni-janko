@@ -1,0 +1,1 @@
+# rizikove-kaceni-janko

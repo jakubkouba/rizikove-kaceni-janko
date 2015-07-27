@@ -1,0 +1,9 @@
+{
+	"name": "development",
+	"description": "Development role for rizikove-kaceni.cz",
+	"chef_type": "role",
+	"json_class": "Chef::Role",
+	"run_list":[
+		"recipe[rizikove_kaceni]"
+	]
+}
